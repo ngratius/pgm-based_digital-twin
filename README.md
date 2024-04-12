@@ -23,6 +23,10 @@ You can install these dependencies using pip:
 pip install pandas numpy matplotlib scipy
 ```
 
+## Execution
+
+Run the Python script: `MLE_PH_data_general_V3.py`
+
 ## Authors
 
 * [Nicolas Gratius](https://www.linkedin.com/in/nicolas-gratius-3360b0110/)
